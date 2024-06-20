@@ -5,3 +5,4 @@ local args = {
 }
 
 game:GetService("ReplicatedStorage"):WaitForChild("jdskhfsIIIllliiIIIdchgdIiIIIlIlIli"):FireServer(unpack(args))
+end
